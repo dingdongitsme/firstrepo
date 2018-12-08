@@ -1,4 +1,14 @@
-# firstrepo
-just for fun
+firstrepo
+===============
+**just for fun**
 
 tried the branch feature
+--------------------------
+
+hello  **world** *world*
+
+* hello
+* world
+```
+hello world
+```
